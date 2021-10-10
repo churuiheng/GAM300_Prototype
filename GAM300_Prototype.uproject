@@ -8,5 +8,12 @@
 			"Name": "Water",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
