@@ -9,8 +9,8 @@
 **WASD - Movement**  
 **Hold Spacebar - Drift while moving**  
 **J - Use Nitrous**  
-**K - Fire Laser**
-**L - Place Mine**
+**K - Fire Laser**  
+**L - Place Mine**  
 
 ## Controls for Controllers:
 **RT - Thrust**  
