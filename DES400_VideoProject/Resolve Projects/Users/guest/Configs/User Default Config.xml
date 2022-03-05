@@ -104,7 +104,7 @@
    <UserSetup>
     <SM_UserSetup DbId="361affd0-0d48-46c3-883d-437243882278">
      <FieldsBlob>00000001000000020000005000530069007a0069006e00670049006e0074006500720061006300740069006f006e00730046006f007200570069006e0064006f007700730041006e00640046005800560065007200730069006f006e0000000200000000030000001e0041007500640069006f0042007500730069006e0067004d006f00640065000000020000000001</FieldsBlob>
-     <LastWorkingProject/>
+     <LastWorkingProject>DES400_VideoProject</LastWorkingProject>
      <LastWorkingProjectFolder/>
      <DefaultToLocalVersion>true</DefaultToLocalVersion>
      <SaveClipVSR>false</SaveClipVSR>
@@ -360,5 +360,5 @@
  <SsnId>0</SsnId>
  <Name>User Default Config</Name>
  <LockSysId/>
- <DbSavedTime>31251</DbSavedTime>
+ <DbSavedTime>123922</DbSavedTime>
 </SM_Config>
